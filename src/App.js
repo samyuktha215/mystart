@@ -13,9 +13,14 @@ import Footer from "./components/Footer/footer";
           <Skills/>
           <Works/>
           <Contact/>
+<<<<<<< HEAD
           <div>  </div>
     </div>
     
+=======
+          <Footer/>
+    </div>
+>>>>>>> 173975cc9191f15e231550d1dd019c29a45b50cc
   );
 }  
 
