@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react'
+import React, {  useState } from 'react'
 import AWS from '../../images/AWS.png';
 import electrical from '../../images/electrical.png';
 import mpc from '../../images/mpc.png';
@@ -7,7 +7,6 @@ import iconfacebook from '../../images/icon-facebook.svg';
 import iconinstagram from '../../images/icon-instagram.svg';
 import icontwitter from '../../images/icon-twitter.svg';
 import iconpinterest from '../../images/icon-pinterest.svg';
-import emailjs from '@emailjs/browser';
 import { send } from '@emailjs/browser';
 const Contact = () => {
 
