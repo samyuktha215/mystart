@@ -13,8 +13,9 @@ import Footer from "./components/Footer/footer";
           <Skills/>
           <Works/>
           <Contact/>
-          <Footer/>
+          <div>  </div>
     </div>
+    
   );
 }  
 
